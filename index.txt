@@ -1,4 +1,5 @@
-|Source|https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/index.txt|
+|Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/index.txt|
+|Version|0.1.0|
 //{{{
 [
   {
