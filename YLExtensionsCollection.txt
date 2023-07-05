@@ -1,10 +1,14 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.0|
+|Version|0.1.1|
 //{{{
 [
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ShowUnsavedPlugin/blob/master/ShowUnsavedPlugin.js",
     "description": "When TW has unsaved changes, shows it in the tab/window title (adds '*'), on the saveChanges button (bold red), and more"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_DarkModePlugin/blob/master/DarkModePlugin.js",
+    "description": "Introduces \"dark mode\" (styles) and switching it by the darkMode macro and operating system settings"
   }
 ]
 //}}}
