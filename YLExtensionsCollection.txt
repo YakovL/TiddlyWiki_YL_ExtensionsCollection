@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.1|
+|Version|0.1.2|
 //{{{
 [
   {
@@ -9,6 +9,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_DarkModePlugin/blob/master/DarkModePlugin.js",
     "description": "Introduces \"dark mode\" (styles) and switching it by the darkMode macro and operating system settings"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js",
+    "description": "Allows to store any number of tiddlers as external files and more"
   }
 ]
 //}}}
