@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.2|
+|Version|0.1.3|
 //{{{
 [
   {
@@ -13,6 +13,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js",
     "description": "Allows to store any number of tiddlers as external files and more"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_FromPlaceToPlacePlugin/blob/master/FromPlaceToPlacePlugin.js",
+    "description": "Opens a tiddler or a page in place of the current one (as opposed to opening in addition) via hotkeys"
   }
 ]
 //}}}
