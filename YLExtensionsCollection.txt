@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.3|
+|Version|0.1.4|
 //{{{
 [
   {
@@ -17,6 +17,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_FromPlaceToPlacePlugin/blob/master/FromPlaceToPlacePlugin.js",
     "description": "Opens a tiddler or a page in place of the current one (as opposed to opening in addition) via hotkeys"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_SimplifiedUpgradingPlugin/blob/master/SimplifiedUpgradingPlugin.js",
+    "description": "Fixes core upgrading for (at least) Timimi or MTS 1.7.0 and above, adds optional upgrade autocheck on start and more"
   }
 ]
 //}}}
