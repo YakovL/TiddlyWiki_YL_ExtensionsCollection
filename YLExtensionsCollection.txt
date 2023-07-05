@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.4|
+|Version|0.1.5|
 //{{{
 [
   {
@@ -21,6 +21,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_SimplifiedUpgradingPlugin/blob/master/SimplifiedUpgradingPlugin.js",
     "description": "Fixes core upgrading for (at least) Timimi or MTS 1.7.0 and above, adds optional upgrade autocheck on start and more"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_ExtensionsExplorerPlugin/blob/master/ExtensionsExplorerPlugin.js",
+    "description": "Notifies about extensions updates, introduces a macro and a backstage button to explore, install and update extensions"
   }
 ]
 //}}}
