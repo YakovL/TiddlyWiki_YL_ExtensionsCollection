@@ -1,7 +1,11 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.5|
+|Version|0.1.6|
 //{{{
 [
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_QuickSavePlugin/blob/master/QuickSavePlugin.js",
+    "description": "Enables Ctrl + S hotkey to save changes (and not browser default action)"
+  },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ShowUnsavedPlugin/blob/master/ShowUnsavedPlugin.js",
     "description": "When TW has unsaved changes, shows it in the tab/window title (adds '*'), on the saveChanges button (bold red), and more"
