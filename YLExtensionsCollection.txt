@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.6|
+|Version|0.1.7|
 //{{{
 [
   {
@@ -17,6 +17,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js",
     "description": "Allows to store any number of tiddlers as external files and more"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_ExtraFilters/blob/master/ExtraFiltersPlugin.js",
+    "description": "Various additional filters, including 'all', 'and', 'not', 'tagTree', 'unclassified', 'taggedOnly', 'hasPart', 'from', 'sortByText', and more"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_FromPlaceToPlacePlugin/blob/master/FromPlaceToPlacePlugin.js",
