@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.7|
+|Version|0.1.8|
 //{{{
 [
   {
@@ -33,6 +33,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ExtensionsExplorerPlugin/blob/master/ExtensionsExplorerPlugin.js",
     "description": "Notifies about extensions updates, introduces a macro and a backstage button to explore, install and update extensions"
+  },
+  {
+    "url": "https://yakovl.github.io/TiddlyWiki_MarkdeepPlugin/#MarkdeepPlugin",
+    "description": "Create diagrams using the Markdeep syntax"
   }
 ]
 //}}}
