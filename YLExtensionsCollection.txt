@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.8|
+|Version|0.1.9|
 //{{{
 [
   {
@@ -33,6 +33,10 @@
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ExtensionsExplorerPlugin/blob/master/ExtensionsExplorerPlugin.js",
     "description": "Notifies about extensions updates, introduces a macro and a backstage button to explore, install and update extensions"
+  },
+  {
+    "url": "https://yakovl.github.io/TiddlyWiki_SharedTiddlersPlugin/#SharedTiddlersPlugin",
+    "description": "Allows to use tiddlers from other TiddlyWikis (with or without importing them)"
   },
   {
     "url": "https://yakovl.github.io/TiddlyWiki_MarkdeepPlugin/#MarkdeepPlugin",
