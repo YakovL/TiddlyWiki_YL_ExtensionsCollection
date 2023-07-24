@@ -1,7 +1,11 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.9|
+|Version|0.1.10|
 //{{{
 [
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_JumpKeysPlugin/blob/master/JumpKeysPlugin.js",
+    "description": "Adds an interface and hotkeys for jumping between tiddlers and more"
+  },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_QuickSavePlugin/blob/master/QuickSavePlugin.js",
     "description": "Enables Ctrl + S hotkey to save changes (and not browser default action)"
