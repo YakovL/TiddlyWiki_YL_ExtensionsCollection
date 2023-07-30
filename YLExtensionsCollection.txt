@@ -1,7 +1,11 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.10|
+|Version|0.1.11|
 //{{{
 [
+  {
+    "url": "https://yakovl.github.io/TiddlyWiki_GraphTools/#VisGraphPlugin",
+    "description": "View and edit graphs in a WYSIWYGish manner with the <<graph>> macro (see additional installation steps inside the plugin)"
+  },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_JumpKeysPlugin/blob/master/JumpKeysPlugin.js",
     "description": "Adds an interface and hotkeys for jumping between tiddlers and more"
