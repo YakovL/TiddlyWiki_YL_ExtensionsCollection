@@ -8,15 +8,15 @@
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_JumpKeysPlugin/blob/master/JumpKeysPlugin.js",
-    "description": "Adds an interface and hotkeys for jumping between tiddlers and more"
+    "description": "Jump between tiddlers and do more via hotkeys and a UI similar to what browsers use for tabs"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_QuickSavePlugin/blob/master/QuickSavePlugin.js",
-    "description": "Enables Ctrl + S hotkey to save changes (and not browser default action)"
+    "description": "Save changes via Ctrl + S hotkey (without getting browser default action)"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ShowUnsavedPlugin/blob/master/ShowUnsavedPlugin.js",
-    "description": "When TW has unsaved changes, shows it in the tab/window title (adds '*'), on the saveChanges button (bold red), and more"
+    "description": "See when TW has unsaved changes: in the tab/window title (adds '*'), on the saveChanges button (bold red), and more"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_DarkModePlugin/blob/master/DarkModePlugin.js",
@@ -24,7 +24,7 @@
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_TiddlerInFilePlugin/blob/master/TiddlerInFilePlugin.js",
-    "description": "Allows to store any number of tiddlers as external files and more"
+    "description": "Store specific tiddlers as external files and more"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ExtraFilters/blob/master/ExtraFiltersPlugin.js",
@@ -32,7 +32,7 @@
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_FromPlaceToPlacePlugin/blob/master/FromPlaceToPlacePlugin.js",
-    "description": "Opens a tiddler or a page in place of the current one (as opposed to opening in addition) via hotkeys"
+    "description": "Open a tiddler or a page in place of the current one (as opposed to opening in addition) via hotkeys"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_SimplifiedUpgradingPlugin/blob/master/SimplifiedUpgradingPlugin.js",
