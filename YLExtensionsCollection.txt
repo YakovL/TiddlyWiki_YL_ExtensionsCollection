@@ -1,9 +1,9 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.1.11|
+|Version|0.1.12|
 //{{{
 [
   {
-    "url": "https://yakovl.github.io/TiddlyWiki_GraphTools/#VisGraphPlugin",
+    "url": "https://github.com/YakovL/TiddlyWiki_GraphTools/blob/master/VisGraphPlugin.js",
     "description": "View and edit graphs in a WYSIWYGish manner with the <<graph>> macro (see additional installation steps inside the plugin)"
   },
   {
