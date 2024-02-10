@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.1|
+|Version|0.2.2|
 //{{{
 [
   {
@@ -20,7 +20,7 @@
     "description": "Save changes via Ctrl + S hotkey (without getting browser default action)"
   },
   {
-    "url": "https://github.com/YakovL/TiddlyWiki_ContinousSavingPlugin/blob/main/ContinousSavingPlugin.js",
+    "url": "https://github.com/YakovL/TiddlyWiki_ContinuousSavingPlugin/blob/main/ContinuousSavingPlugin.js",
     "description": "Makes loading and saving work via just one file picking per session"
   },
   {
