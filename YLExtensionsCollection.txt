@@ -1,11 +1,15 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.2|
+|Version|0.2.3|
 //{{{
 [
   {
     "url": "https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLPrereleasesAndExperimentsCollection.txt",
     "description": "Pre-releases and experiments by Yakov Litvin",
     "type": "collection"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_TwFormulaPlugin/blob/master/TwFormulaPlugin.js",
+    "description": "Render beautiful formulas using LaTeX syntax (also provides WYSIWYGish editing with MathQuill)"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_GraphTools/blob/master/VisGraphPlugin.js",
