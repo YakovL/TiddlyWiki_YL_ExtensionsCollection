@@ -1,11 +1,15 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.3|
+|Version|0.2.4|
 //{{{
 [
   {
     "url": "https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLPrereleasesAndExperimentsCollection.txt",
     "description": "Pre-releases and experiments by Yakov Litvin",
     "type": "collection"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_EncryptionPlugin/blob/master/EncryptionPlugin.js",
+    "description": "Save selected parts of content with encryption"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_TwFormulaPlugin/blob/master/TwFormulaPlugin.js",
