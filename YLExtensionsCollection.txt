@@ -64,7 +64,7 @@
     "description": "Allows to use tiddlers from other TiddlyWikis (with or without importing them)"
   },
   {
-    "url": "https://yakovl.github.io/TiddlyWiki_MarkdeepPlugin/#MarkdeepPlugin",
+    "url": "https://github.com/YakovL/TiddlyWiki_MarkdeepPlugin/blob/master/MarkdeepPlugin.js",
     "description": "Create diagrams using the Markdeep syntax"
   }
 ]
