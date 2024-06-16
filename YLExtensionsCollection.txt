@@ -1,5 +1,5 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.4|
+|Version|0.2.5|
 //{{{
 [
   {
@@ -62,6 +62,10 @@
   {
     "url": "https://yakovl.github.io/TiddlyWiki_SharedTiddlersPlugin/#SharedTiddlersPlugin",
     "description": "Allows to use tiddlers from other TiddlyWikis (with or without importing them)"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_ImageGalleries/blob/master/FancyBox2Plugin.js",
+    "description": "Adds a macro to create image galleries"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_MarkdeepPlugin/blob/master/MarkdeepPlugin.js",
