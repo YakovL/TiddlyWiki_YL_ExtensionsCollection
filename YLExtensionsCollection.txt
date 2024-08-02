@@ -1,11 +1,15 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.5|
+|Version|0.2.6|
 //{{{
 [
   {
     "url": "https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLPrereleasesAndExperimentsCollection.txt",
     "description": "Pre-releases and experiments by Yakov Litvin",
     "type": "collection"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_HandsontablePlugin/blob/master/HandsontablePlugin.js",
+    "description": "Create spreadsheet-like tables with inline editing and keyboard hotkeys for manipulating rows and columns"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_EncryptionPlugin/blob/master/EncryptionPlugin.js",
