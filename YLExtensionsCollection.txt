@@ -33,7 +33,7 @@
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ContinuousSavingPlugin/blob/main/ContinuousSavingPlugin.js",
-    "description": "Makes loading and saving work via just one file picking per session"
+    "description": "Get loading and saving work via just one file picking per session"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ShowUnsavedPlugin/blob/master/ShowUnsavedPlugin.js",
@@ -57,19 +57,19 @@
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_SimplifiedUpgradingPlugin/blob/master/SimplifiedUpgradingPlugin.js",
-    "description": "Fixes core upgrading for (at least) Timimi or MTS 1.7.0 and above, adds optional upgrade autocheck on start and more"
+    "description": "Get core upgrading work with savers with I/O limitations, like Timimi, Tiddloid, or MTS 1.7.0 and above; optionally get notified on start if an upgrade is available; have upgrading more git-friendly"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ExtensionsExplorerPlugin/blob/master/ExtensionsExplorerPlugin.js",
-    "description": "Notifies about extensions updates, introduces a macro and a backstage button to explore, install and update extensions"
+    "description": "Get notified about extensions updates; explore, install and update extensions"
   },
   {
     "url": "https://yakovl.github.io/TiddlyWiki_SharedTiddlersPlugin/#SharedTiddlersPlugin",
-    "description": "Allows to use tiddlers from other TiddlyWikis (with or without importing them)"
+    "description": "Load and use tiddlers from other TiddlyWikis (both content and settings, optionally with importing them)"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_ImageGalleries/blob/master/FancyBox2Plugin.js",
-    "description": "Adds a macro to create image galleries"
+    "description": "Create image galleries"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_MarkdeepPlugin/blob/master/MarkdeepPlugin.js",
