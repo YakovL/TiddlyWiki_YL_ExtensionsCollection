@@ -1,11 +1,15 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLExtensionsCollection.txt|
-|Version|0.2.6|
+|Version|0.2.7|
 //{{{
 [
   {
     "url": "https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLPrereleasesAndExperimentsCollection.txt",
     "description": "Pre-releases and experiments by Yakov Litvin",
     "type": "collection"
+  },
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_DisqusPlugin/blob/master/DisqusPlugin.js",
+    "description": "Add Disqus threads (comments) to your tiddlers"
   },
   {
     "url": "https://github.com/YakovL/TiddlyWiki_HandsontablePlugin/blob/master/HandsontablePlugin.js",
