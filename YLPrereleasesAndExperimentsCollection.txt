@@ -1,6 +1,10 @@
 |Source |https://github.com/YakovL/TiddlyWiki_YL_ExtensionsIndex/blob/master/YLPrereleasesAndExperimentsCollection.txt|
-|Version|0.0.0|
+|Version|0.0.1|
 //{{{
 [
+  {
+    "url": "https://github.com/YakovL/TiddlyWiki_InsertImagePlugin/blob/master/InsertImagePlugin.js",
+    "description": "Insert images from clipboard as base64"
+  }
 ]
 //}}}
